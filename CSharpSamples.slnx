@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="AbstractClassSamples/AbstractClassSamples.csproj" />
+  <Project Path="ClassSamples/ClassSamples.csproj" />
+  <Project Path="ConditionalSamples/ConditionalSamples.csproj" />
+  <Project Path="ExtensionMethodSamples/ExtensionMethodSamples.csproj" />
+  <Project Path="GenericSample/GenericSample.csproj" />
+  <Project Path="InterfaceSample/InterfaceSample.csproj" />
+  <Project Path="LoopSamples/LoopSamples.csproj" />
+  <Project Path="StringSamplese/StringSamplese.csproj" />
+  <Project Path="VariableSamples/VariableSamples.csproj" />
+</Solution>
