@@ -2,6 +2,7 @@
   <Project Path="AbstractClassSamples/AbstractClassSamples.csproj" />
   <Project Path="ClassSamples/ClassSamples.csproj" />
   <Project Path="ConditionalSamples/ConditionalSamples.csproj" />
+  <Project Path="EnumSample/EnumSample.csproj" Id="3194acaa-a096-4924-bc06-d15d2e98fb17" />
   <Project Path="ExtensionMethodSamples/ExtensionMethodSamples.csproj" />
   <Project Path="GenericSample/GenericSample.csproj" />
   <Project Path="InterfaceSample/InterfaceSample.csproj" />
